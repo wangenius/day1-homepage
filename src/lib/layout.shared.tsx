@@ -6,8 +6,8 @@ export function baseOptions(): BaseLayoutProps {
     nav: {
       title: (
         <>
-          <Image src={"/icon-black.svg"} width={24} height={24} alt="icon" className="w-8 h-8" />
-          <span className="font-bold">vibetake docs</span>
+          <Image src={"/favicon.png"} width={24} height={24} alt="icon" className="w-8 h-8" />
+          <span className="font-bold">Day1</span>
         </>
       ),
     },
